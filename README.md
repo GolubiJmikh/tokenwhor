@@ -46,3 +46,7 @@ npm run preview
 - React Router;
 - CSS;
 - localStorage.
+
+## Документация
+
+Спецификация проекта: [docs/project-spec.md](docs/project-spec.md)
